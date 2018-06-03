@@ -1,0 +1,2 @@
+﻿=docker run --privileged -ti ##{tag}## /bin/bash
+busybox:=docker run --privileged -ti ##{tag}## sh
